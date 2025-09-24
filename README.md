@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # my_app_source
 Flutter app source code for selling on Flippa.
 =======
@@ -292,3 +291,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 *Transform your relationship with money. Take control. Achieve your goals.*
 >>>>>>> 7fc5a0c (Add full source code)
+=======
+# my_app_source
+Flutter app source code for selling on Flippa.
+>>>>>>> 9c05f37ecb6d7b015f948c5b3d77a805d6552931

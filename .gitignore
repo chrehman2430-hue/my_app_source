@@ -1,6 +1,5 @@
 # Miscellaneous
 *.class
-<<<<<<< HEAD
 *.lock
 *.log
 *.pyc
@@ -117,6 +116,7 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+<<<<<<< HEAD
 !/dev/ci/**/Gemfile.lock
 =======
 *.log
@@ -163,3 +163,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 >>>>>>> 7fc5a0c (Add full source code)
+=======
+!/dev/ci/**/Gemfile.lock
+>>>>>>> 9c05f37ecb6d7b015f948c5b3d77a805d6552931
