@@ -281,9 +281,10 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ## 📞 Contact
 
-- **Email**: support@budgettracker.app
-- **Website**: https://budgettracker.app
-- **GitHub**: https://github.com/budgettracker/app
+- **Email**: chrehman2430@gmail.com
+- **Website**: https://github.com/chrehman2430-hue/my_app_source
+- **GitHub**: 
+
 
 ---
 
@@ -293,5 +294,5 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 >>>>>>> 7fc5a0c (Add full source code)
 =======
 # my_app_source
-Flutter app source code for selling on Flippa.
+Flutter app source code for selling
 >>>>>>> 9c05f37ecb6d7b015f948c5b3d77a805d6552931
