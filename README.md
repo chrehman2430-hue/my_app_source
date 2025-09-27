@@ -184,7 +184,7 @@ flutter build ios --release
 budget, expense tracker, savings app, financial planner, money manager, spending tracker, personal finance, budget planner, expense manager, financial goals
 
 ### Marketing Materials
-- **Screenshots**: 5 professional app store screenshots
+- **Screenshots**: 7 professional app store screenshots
 - **Feature Graphics**: Highlight graphics for key features
 - **App Icon**: Custom finance-themed icon with modern design
 - **Splash Screen**: Branded loading experience
@@ -283,7 +283,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 - **Email**: chrehman2430@gmail.com
 - **Website**: https://github.com/chrehman2430-hue/my_app_source
-- **GitHub**: 
+- **GitHub**: https://github.com/chrehman2430-hue/my_app_source.git
 
 
 ---
